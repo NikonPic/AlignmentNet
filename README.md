@@ -2,7 +2,7 @@
 >This repository represents the source code for a completely automated alignment analysis software
 
 
- <img src="architecture.PNG" alt="Drawing" style="width: 1200px;">
+ <img src="architecture.png" alt="Drawing" style="width: 1200px;">
 
 
 ## Setup
