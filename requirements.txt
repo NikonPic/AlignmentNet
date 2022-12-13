@@ -1,0 +1,12 @@
+json
+datetime
+cv2
+matplotlib
+numpy
+PIL
+pandas
+imantics
+tqdm
+detectron2
+torch
+pytesseract
