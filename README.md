@@ -20,9 +20,8 @@
     │   ├── categories.py                # def of all individual categories to split
     │   ├── train_detectron.py           # training and managing of all submodules
     │   ├── optimize_image_range.py      # Local opt. for maximum img accuracy
-    │   ├── nuber_detection.py           # detect ruler if no sphere is available
-    │   ├── angle_calc.py                # calculate the alignmant angles
-    │   ├── angles_vis.py                # visualize aliognment angles
+    │   ├── number_detection.py          # detect ruler if no sphere is available
+    │   ├── angles_vis.py                # visualize alignment angles
     │   ├── eval_angle_test.py           # perform all evaluations
     │   └── extern_studies.py            # helpers for external analysis
     |
