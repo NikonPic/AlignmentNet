@@ -6,7 +6,6 @@ images_external
 images_external_v2*
 output*
 ocr_analysis*
-jsons
 results
 *.gif
 .ipynb_checkpoints

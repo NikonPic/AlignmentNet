@@ -16,12 +16,10 @@
     .     
     ├── src                              # Source Code
     │   ├── main.py                      # main function, to preprocess, train and evaluate
-    │   ├── helpers.py                   # helpers for preprocessing the data to COCO
     │   ├── categories.py                # def of all individual categories to split
     │   ├── train_detectron.py           # training and managing of all submodules
-    │   ├── optimize_image_range.py      # Local opt. for maximum img accuracy
     │   ├── number_detection.py          # detect ruler if no sphere is available
-    │   ├── angles_vis.py                # visualize alignment angles
+    │   ├── angles_calc.py               # calculate alignment angles
     │   ├── eval_angle_test.py           # perform all evaluations
     │   └── extern_studies.py            # helpers for external analysis
     |
@@ -31,6 +29,10 @@
     ├── images                           # Folder with all training images
     |
     └── results                          # Contains the final results
+
+## License
+Creative Commons Attribution 4.0 International (CC-BY-4.0)
+
 
 # Citation
 
