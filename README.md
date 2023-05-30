@@ -1,4 +1,4 @@
-# Multicentric Development and Validation of a Multi-Scale and Multi-Task Deep Learning Model for a Comprehensive Orthopedic Lower Extremity Alignment Analysis in a Simulated Clinical Environment
+# Multicentric Development and Validation of a Multi-Scale and Multi-Task Deep Learning Model for a Comprehensive Orthopedic Lower Extremity Alignment Analysis
 >This repository represents the source code for a completely automated alignment analysis software
 
 
