@@ -40,5 +40,17 @@ Creative Commons Attribution 4.0 International (CC-BY-4.0)
 If you use this project in any of your work, please cite:
 
 ```
-tbd.
+@article{Wilhelm2024,
+  title = {Multicentric development and validation of a multi-scale and multi-task deep learning model for comprehensive lower extremity alignment analysis},
+  volume = {150},
+  ISSN = {0933-3657},
+  url = {http://dx.doi.org/10.1016/j.artmed.2024.102843},
+  DOI = {10.1016/j.artmed.2024.102843},
+  journal = {Artificial Intelligence in Medicine},
+  publisher = {Elsevier BV},
+  author = {Wilhelm,  Nikolas J. and von Schacky,  Claudio E. and Lindner,  Felix J. and Feucht,  Matthias J. and Ehmann,  Yannick and Pogorzelski,  Jonas and Haddadin,  Sami and Neumann,  Jan and Hinterwimmer,  Florian and von Eisenhart-Rothe,  R\"{u}diger and Jung,  Matthias and Russe,  Maximilian F. and Izadpanah,  Kaywan and Siebenlist,  Sebastian and Burgkart,  Rainer and Rupp,  Marco-Christopher},
+  year = {2024},
+  month = apr,
+  pages = {102843}
+}
 ```
